@@ -1,0 +1,45 @@
+//LPL 3.0
+work whith tag<lpl></lpl>
+
+it works like php itself with html
+
+exm:
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+  <body>
+    <lpl>
+        print('hi server');
+    </lpl>
+  </body>
+</html>
+
+print(text); -- console 
+print text; -- console 
+$a; -- var
+const(name, value); -- create const
+if/else -- if/else
+for -- for
+while -- while
+do while -- do while
+random(min,* max*); 
+func(); -- function
+translate(); -- translat lpl to php
+
+class MyClass {
+    public $property;
+    public function method1() {
+      //code
+    }
+    private function method2() {
+        // code
+    }
+}
+$obj = new MyClass();
+intrf -- interface
+abst -- abstract
+impl -- implements
